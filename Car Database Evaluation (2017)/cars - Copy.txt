@@ -1,0 +1,36 @@
+Mazda
+Miata
+Steve Rogers
+1995
+30000
+124000
+Toyota
+Prius
+Jack Black
+2010
+28000
+67000
+Subaru
+Forester
+Mr. Bean
+2017
+28000
+1051
+Subaru
+WRX-STI
+Oliver Queen
+2016
+32000
+4242
+Chevy
+Suburban
+Diana Prince
+2000
+51000
+405000
+Chevy
+Suburban
+Diana Prince
+2000
+51000
+405000
